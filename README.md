@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @weareielan
+- 👋 Hi, This is @weareielan
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on any e-commerce Website.
